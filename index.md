@@ -18,10 +18,8 @@ Part 5: Fetch JSONPlaceholder data
 
 ## Lab Deliverables:
 
-### 1. lab-08.js
-[lab-08.js](lab-08.js)
+### 1. [lab-08.js](lab-08.js)
 
-### 2. package.json
-[package.json](package.json)
+### 2. [package.json](package.json)
 
 
