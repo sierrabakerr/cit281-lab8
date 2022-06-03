@@ -1,3 +1,7 @@
+/*
+    CIT 281 Lab 8
+    Name: Sierra Baker
+*/
 // #1 TODO: Declare fastify object from fastify, and execute
 const fastify = require("fastify")();
 // #2 TODO: Declare fetch object from node-fetch
